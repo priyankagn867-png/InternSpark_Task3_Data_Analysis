@@ -1,0 +1,5 @@
+Total net sales across cleaned records: ₹1,109,827.00.
+Highest-sales region: South (₹297,270.00).
+Highest-sales category: Electronics (₹777,435.00).
+Top product by net sales: Laptop (₹312,600.00).
+Average order net sales: ₹55,491.35.
